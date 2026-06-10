@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+asyncpg
+aiokafka
+redis
+opencv-python-headless
+ultralytics
+numpy
+loguru
+httpx
+pydantic
+typing-extensions
